@@ -8,16 +8,25 @@ This repository contains solutions to a machine learning task provided by a comp
 
 You'll find the repository structured like this:
 ```
-StarX/
-├── task_1/
-│   └── task_1_notebook.ipynb
-├── task_2/
-│   └── task_2_notebook.ipynb
-├── task_3/
-│   └── task_3_script.py
-├── requirements/
-│   └── (contains precise instructions/files to recreate the environment)
-└── README.md
+.
+AI_ML_Developer_Test_Anosh
+├── README.md
+├── requirements.txt
+├── task_1_symptom_analysis
+│   ├── confusion_matrix_scaled.png
+│   ├── README.md
+│   ├── symptom_analysis.ipynb
+│   └── Symptom2Disease.csv
+├── task_2_image_detection
+│   ├── image_detection.ipynb
+│   └── README.md
+└── task_3_rag_pipeline
+    ├── 3_questions_output.png
+    ├── docs
+    │   ├── diabetes.txt
+    │   └── hypertension.txt
+    ├── rag_pipeline.py
+    └── README.md
 ```
 
 
