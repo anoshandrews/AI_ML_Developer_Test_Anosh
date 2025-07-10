@@ -1,0 +1,19 @@
+Diabetes is a chronic medical condition characterized by elevated levels of glucose in the blood. It occurs when the body either does not produce enough insulin or cannot effectively use the insulin it produces.
+
+There are mainly two types of diabetes: Type 1 and Type 2. Type 1 diabetes is an autoimmune disorder where the body's immune system attacks insulin-producing beta cells in the pancreas. People with Type 1 diabetes require lifelong insulin therapy.
+
+Type 2 diabetes is more common and is associated with insulin resistance. This means the body becomes less responsive to insulin. Risk factors include obesity, physical inactivity, family history, and age. Management often involves lifestyle changes, medication, and sometimes insulin.
+
+A condition called prediabetes occurs when blood glucose levels are higher than normal but not yet in the diabetes range. People with prediabetes are at increased risk of developing Type 2 diabetes, as well as heart disease and stroke.
+
+Common symptoms of diabetes include increased thirst, frequent urination, fatigue, blurred vision, and slow-healing wounds. However, Type 2 diabetes may develop gradually, and symptoms can be mild or absent initially.
+
+Complications from unmanaged diabetes can be serious. These include cardiovascular disease, nerve damage (neuropathy), kidney damage (nephropathy), eye problems (retinopathy), and increased risk of infections.
+
+Regular monitoring of blood glucose levels is critical for people living with diabetes. Maintaining a balanced diet, exercising regularly, taking prescribed medications, and managing stress are essential components of diabetes management.
+
+Emerging research explores the use of artificial intelligence and machine learning for predicting diabetes risk, personalizing treatments, and improving patient outcomes.
+
+Diabetes is a global health concern. The World Health Organization reports that over 422 million people worldwide have diabetes, and this number continues to rise.
+
+It is important to raise awareness, encourage early diagnosis, and promote healthy lifestyles to reduce the burden of diabetes on individuals and healthcare systems.
