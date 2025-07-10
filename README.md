@@ -1,4 +1,4 @@
-# AI_ML_Developer_Test
+# AI ML Developer Test Anosh
 
 This repository contains solutions to a machine learning task provided by the company. It's organized into three distinct tasks, task_4 is contained in another repository,the link to which will be attached along with this.
 As the first and second tasks involve model training and ouput visualization at every step, instead of doing it in a normal python file, I've used a Jupyter Notebook to do the data_analysis and representation on task1_symptom_analysis, and task2_image_detection. This will be intuitive for the person inspecting the code as well, as it shows my thinking process in every step of solving the process, which I have done with Markdown texts and comments throughout the code, so that anyone can understand it.
