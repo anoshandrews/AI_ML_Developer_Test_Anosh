@@ -165,11 +165,13 @@ model = tf.keras.models.load_model('COVID-19 Xray Detection.h5')
 pip install -r requirements.txt
 ```
 
-### 2. Train the Model
+### 2. Launch and Run the Notebook
+If you are running this from vscode make sure that ipykernel package in installed in it, or else the jupyter notebook won't run as it is, but still the running, and output at every stage is provided in .ipynb file itself at every stage.
 
 ```bash
-python image_detection.py
+jupyter notebook 
 ```
+run all cells in image_detection.ipynb
 
 Make sure your dataset folder is named `xray_dataset_covid19` and correctly placed relative to your script.
 
@@ -206,8 +208,3 @@ scikit-learn
 This project demonstrates a clean and effective CNN-based pipeline to detect pneumonia from X-ray scans, achieving high accuracy and minimal false classifications. It can serve as the backend for a deployable medical assistant or AI diagnostics tool.
 
 ---
-
-## 🧠 Author
-
-**Anosh Andrews**  
-AI/ML Developer  
