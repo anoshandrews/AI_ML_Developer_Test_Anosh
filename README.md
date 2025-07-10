@@ -59,8 +59,8 @@ To get started and run the tasks, you'll need to set up your environment by foll
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/anoshandrews/StarX.git](https://github.com/anoshandrews/StarX.git)
-    cd StarX
+    git clone [https://github.com/anoshandrews/AI_ML_Developer_Test_Anosh.git](https://github.com/anoshandrews/AI_ML_Developer_Test_Anosh.git)
+    cd AI_ML_Developer_Test_Anosh
     ```
 2.  **Recreate the environment:** Navigate into the `requirements/` folder and follow the specific instructions there. This will likely involve installing dependencies. For example, if there's a `requirements.txt` file:
     ```bash
