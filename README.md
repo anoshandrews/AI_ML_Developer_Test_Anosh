@@ -90,6 +90,7 @@ env-name\Scripts\activate.bat
 # Install dependencies
 pip install -r requirements.txt
 ---
+```
 
 ## Usage
 
