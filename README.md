@@ -1,14 +1,24 @@
-# StarX - Machine Learning Task Repository
+# AI_ML_Developer_Test
 
-This repository contains solutions to a machine learning task provided by a company. It's organized into three distinct tasks, demonstrating data portrayal, intuition building, and script-based solution implementation using Python.
+This repository contains solutions to a machine learning task provided by the company. It's organized into three distinct tasks, task_4 is contained in another repository,the link to which will be attached along with this.
+As the first and second tasks involve model training and ouput visualization at every step, instead of doing it in a normal python file, I've used a Jupyter Notebook to do the data_analysis and representation on task1_symptom_analysis, and task2_image_detection. This will be intuitive for the person inspecting the code as well, as it shows my thinking process in every step of solving the process, which I have done with Markdown texts and comments throughout the code, so that anyone can understand it.
+A README.md file is there for every task, and this README file is just to give some insights to the way I have structured and solved the questions
+
+Task 4: 
+Experience the ChestX-Pneumonia-CNN live application here:
+
+[ChestX-Pneumonia Live Demo](https://chestx-pneumonia.streamlit.app/)
+
+GitHub repo link:
+
+https://github.com/anoshandrews/ChestX-Pneumonia-CNN
 
 ---
 
-## Project Structure
+## Folder Structure
 
 You'll find the repository structured like this:
 ```
-.
 AI_ML_Developer_Test_Anosh
 ├── README.md
 ├── requirements.txt
@@ -61,10 +71,10 @@ To get started and run the tasks, you'll need to set up your environment by foll
     ```bash
     git clone [https://github.com/anoshandrews/AI_ML_Developer_Test_Anosh.git](https://github.com/anoshandrews/AI_ML_Developer_Test_Anosh.git)
     cd AI_ML_Developer_Test_Anosh
-    ```
-2.  **Recreate the environment:** Navigate into the `requirements/` folder and follow the specific instructions there. This will likely involve installing dependencies. For example, if there's a `requirements.txt` file:
+    
+2.  **Recreate the environment:** Navigate into the folder and follow the specific instructions there. This will likely involve installing dependencies. For example, if there's a `requirements.txt` file:
     ```bash
-    pip install -r requirements/requirements.txt
+    pip install -r requirements.txt
     ```
 
 ---
