@@ -74,8 +74,21 @@ To get started and run the tasks, you'll need to set up your environment by foll
     
 2.  **Recreate the environment:** Navigate into the folder and follow the specific instructions there. This will likely involve installing dependencies. For example, if there's a `requirements.txt` file:
     ```bash
-    pip install -r requirements.txt
-    ```
+# Create virtual environment
+python -m venv env-name
+
+# Activate on macOS / Linux
+source env-name/bin/activate
+
+# Activate on Windows (PowerShell)
+.\env-name\Scripts\Activate.ps1
+
+# OR Activate on Windows (CMD)
+env-name\Scripts\activate.bat
+
+# Install dependencies
+pip install -r requirements.txt
+```
 
 ---
 
